@@ -1,8 +1,13 @@
 ## **Snakes Cafe**
 ___________
+
+Submission pull request: https://github.com/kimmyd70/snakes-cafe/pull/2
+
+__________
 #### Developer: Kim Damalas
 #### Created: 5 December 2020
 #### Version 1.0 
+#### Class: seattle-py-401n2
 ___________
 
 This is a command line utility which will mimic the functionality of a point of sale restaurant system using basic Python tools 
