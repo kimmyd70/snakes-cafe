@@ -1,7 +1,7 @@
 ## **Snakes Cafe**
 ___________
 
-Submission pull request: https://github.com/kimmyd70/snakes-cafe/pull/2
+Submission pull request: 
 
 __________
 #### Developer: Kim Damalas
